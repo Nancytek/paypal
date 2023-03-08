@@ -6,3 +6,4 @@ Blessing
 Nne
 Ayo
 Ade
+Manager
